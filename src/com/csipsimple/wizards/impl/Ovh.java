@@ -44,6 +44,9 @@ public class Ovh extends SimpleImplementation {
 
     {
         put("sip.ovh.fr", "sip.ovh.fr");
+        put("sip2.ovh.fr", "sip2.ovh.fr");
+        put("sip3.ovh.fr", "sip3.ovh.fr");
+        put("sip4.ovh.fr", "sip4.ovh.fr");
         put("sip.ovh.co.uk", "sip.ovh.co.uk");
         put("sip.ovh.de", "sip.ovh.de");
         put("sip.ovh.be", "sip.ovh.be");
